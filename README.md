@@ -1,10 +1,10 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+![logo_fixter](https://fixter.camp/static/media/geek_completo.7e1e87a7.png)
 
 # Express Cinema
 
 ## Introduction
 
-![image](https://user-images.githubusercontent.com/23629340/36983687-49a3d64e-2093-11e8-8b86-b11813f0cdba.png)
+![image](https://p-c-c.org/wp-content/uploads/2017/03/Cinema.jpg)
 
 We will create a cinema web page, where we will display the showtimes for some movies!
 
@@ -112,7 +112,7 @@ const movies = [
 
 We need our home page. Simple and beautiful, on the `index.hbs` create the following home page:
 
-![image](https://user-images.githubusercontent.com/23629340/36986664-acd6af14-209a-11e8-816d-b62417239c53.png)
+![image](https://p-c-c.org/wp-content/uploads/2017/03/Cinema.jpg)
 
 The `button` should be a link redirecting to the `/movies` route.
 
