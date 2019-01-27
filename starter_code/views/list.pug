@@ -1,0 +1,6 @@
+li(style="display:flex")
+    each movie in movi
+        div(style="display:grid")
+            img(src=movie.image)
+            h3=movie.title
+            a(href='/movie/:'+movie.id) See more
